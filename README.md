@@ -67,4 +67,4 @@ This script is provided for educational and informational purposes only. The use
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to fork and modify the code as needed.
+This project is licensed under the [GNU General](LICENSE). Feel free to fork and modify the code as needed.
